@@ -1,0 +1,26 @@
+{
+  "id": "./",
+  "name": "Lean30 \u2014 Fitness & Pantry Tracker",
+  "short_name": "Lean30",
+  "description": "Offline workout, nutrition, pantry, grocery, and progress tracker.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0a1219",
+  "theme_color": "#0b141b",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
